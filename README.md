@@ -1,12 +1,11 @@
 # ①課題名
-
 じゃんけんアプリ1st ver
 
 ## ②課題内容（どんな作品か）
 - 最低限のじゃんけんゲーム実装＋画像
 
 ## ③アプリのデプロイURL
-
+[https://ryoheisudo73.github.io/Janken_1stVer/]
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
